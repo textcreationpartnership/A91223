@@ -1,0 +1,444 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A moderate apology against a pretended calumny. In answer to some passages in The preheminence of Parlement. Newly published by James Howell Esquire, one of the clerks of his Majesties most honourable Privy Councell. VVherein a reason is rendered, why The popish royall favourite stiled him, no friend to Parliaments, and a malignant. And the copy of a letter written by George Gage from Rome to King Iames, inserted, to manifest an agency between him and Rome, to procure the Popes dispensation for the Spanish match. / By William Prynne of Lincolnes Inne, Esquire.</title>
+            <author>Prynne, William, 1600-1669.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91223</idno>
+            <idno type="STC">Wing P4010</idno>
+            <idno type="STC">Thomason E253_4</idno>
+            <idno type="STC">ESTC R212488</idno>
+            <idno type="EEBO-CITATION">99871096</idno>
+            <idno type="PROQUEST">99871096</idno>
+            <idno type="VID">159147</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91223)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159147)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 43:E253[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A moderate apology against a pretended calumny. In answer to some passages in The preheminence of Parlement. Newly published by James Howell Esquire, one of the clerks of his Majesties most honourable Privy Councell. VVherein a reason is rendered, why The popish royall favourite stiled him, no friend to Parliaments, and a malignant. And the copy of a letter written by George Gage from Rome to King Iames, inserted, to manifest an agency between him and Rome, to procure the Popes dispensation for the Spanish match. / By William Prynne of Lincolnes Inne, Esquire.</title>
+                  <author>Prynne, William, 1600-1669.</author>
+                  <author>Gage, George.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>for Michael Sparke, Senior.,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "March 4th 1643"; the final 4 in imprint date crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Howell, James, 1594?-1666. --  Pre-eminence and pedigree of Parlement.</term>
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159147:1"/>
+            <pb facs="tcp:159147:1" rendition="simple:additions"/>
+            <p>A MODERATE
+APOLOGY
+Againſt a Pretended
+CALUMNY.</p>
+            <p>In Anſwer to ſome Paſſages in
+THE PREHEMINENCE
+OF
+PARLEMENT.</p>
+            <p>Newly publiſhed by <hi>James Howell</hi> Eſquire, one of
+the Clerks of his Majeſties moſt Honourable
+Privy Councell.</p>
+            <p>VVherein a Reaſon is rendered, why <hi>The Popiſh
+Royall Favourite</hi> ſtiled him, <hi>No Friend to Parliaments, and a Mà<g ref="char:EOLhyphen"/>lignant.</hi>
+And the copy of a Letter written by <hi>George Gage</hi> from
+<hi>Rome</hi> to <hi>King Iames,</hi> inſerted, to manifeſt an Agency between him
+and <hi>Rome,</hi> to procure the Popes Diſpenſation for
+the Spaniſh Match.</p>
+            <p>By <hi>William Prynne</hi> of Lincolnes Inne, Eſquire.</p>
+            <q>
+               <bibl>Prov. 27. 5. 6.</bibl>
+               <p>Open rebuke is better then ſecret love. Faithfull are the words of a friend, but the kiſſes
+of an Enemy are deceitfull.</p>
+            </q>
+            <p>Printed at London for <hi>Michael Sparke,</hi> Senior. 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:159147:2"/>
+            <pb n="1" facs="tcp:159147:2"/>
+            <head>A Moderate Apology
+AGAINST
+A pretended Calumny.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Hou ſhalt not raiſe a falſe report, nor put thy hand with the
+wicked to be an unrighteous Iudge, Exod. 23. 1. is a divine
+precept of ſuch Juſtice and Equity, as ſhould binde
+all <hi>Tongues,</hi> and <hi>Pens</hi> to the good behaviour, and en<g ref="char:EOLhyphen"/>gage
+every man to be as tender of his <hi>Brothers</hi> reputa<g ref="char:EOLhyphen"/>tion
+as his owne. <hi>A good name is better thee precious
+ointment, Eccleſ. 7. 1. and rather to be choſen then great riches, Prov.</hi> 22. 1.
+therefore not raſhly to bee blaſted, traduced with ſlanderous defa<g ref="char:EOLhyphen"/>mations.</p>
+            <p>Being then publikely taxed by Maſter <hi>Iames Howell,</hi> though in a
+modeſt candid manner, in his <hi>Preheminence and Pedegree of Parlia<g ref="char:EOLhyphen"/>ments,
+pag.</hi> 10. 11. &amp;c. (newly printed,) as criminall <hi>of offering him very
+hard meaſure, nay, of doing him apparent wrong,</hi> in ſtiling him in a Book
+entituled, <hi>The Popiſh Royall Favourite,</hi> p. 42. NO FRIEND TO
+PARLIAMENTS, AND A MALIGNANT; <hi>a character which</hi>
+(he ſaith) <hi>he deſerves not, and diſdaines;</hi> I ſhall give both himſelfe
+and the world this briefe account of theſe harſh expreſſions, not any
+wayes to traduce this learned Gentleman (whoſe excellent parts I
+highly honour) but to acquit my ſelfe from pretended guilt, of a
+<hi>malicious</hi> or <hi>groundleſſe Calumny.</hi>
+            </p>
+            <p>The title of a <hi>Malignant,</hi> ſince the late deplorable differences be<g ref="char:EOLhyphen"/>tweene
+his <hi>Majeſty</hi> and the Parliament, is growne into ſuch common
+and univerſall uſe, that none but <hi>Neuters,</hi> and <hi>Ambodexters</hi> (if they)
+either doe or can evade it. The <hi>Cavaliers</hi> and <hi>Royaliſts</hi> on the one ſide,
+the two Houſes of Parliament and their Adherents on the other ſide,
+both in their Diſcourſes and Writings ſtile all ſuch who are oppoſite,
+or not profeſſedly cordiall to either of them, MALIGNANTS; a
+truth ſo experimentally evident, as needs no demonſtration. It was
+Mr <hi>Howels diſaſter</hi> among others (as himſelfe ingenuouſly confeſſeth,
+<hi>page</hi> 13.) <hi>to fall ſo heavily under the diſpleaſure of the higheſt Court of
+<pb n="2" facs="tcp:159147:3"/>
+Parliament;</hi> that he was, upon ſome informations given in againſt him,
+by its Authority and direction <hi>apprehended and committed to the Fleet,
+(where he hath continued Priſoner ſundry months, and yet remaines) his
+Papers ſeiſed, his Letters intercepted,</hi> for this cauſe eſpecially (as I was
+credibly informed from ſome Members of Parliament, who had the
+peruſall of his Papers) that he had been in armes againſt the Parliament,
+and was a <hi>dangerous</hi> MALIGNANT, MUCH DISAFFECTED TO THE
+PRESENT PARLIAMENT, <hi>who by reaſon of his Abilities, and acquaintance
+with Malignants, might probably do much miſchief, and very ill offices againſt
+the Parliament, if not reſtrained.</hi> Receiving therfore ſuch a <hi>Character</hi> of
+his unknown perſon and diſpoſition, from ſo good Authority, and
+meeting with ſundry Satyrical Paſſages in his <hi>Vocal Foreſt,</hi> and in his <hi>Parley
+between Patricius</hi> and <hi>Peregrine</hi> againſt this and former Parliaments, (diſ<g ref="char:EOLhyphen"/>covering
+a more then ordinary Malignity in him againſt ſuch Aſſem<g ref="char:EOLhyphen"/>blies;)
+having occaſion to tranſcribe ſome paſſages out of him, touching
+the Kings voyage into <hi>Spain,</hi> and ſome occurrences during his abode there,
+(to ſatisfie <hi>Malignants, and Oppoſites to the preſent Parliaments proceedings)</hi>
+in ſome Letters and Complements then paſſed between the Pope and
+King; I imagined with my ſelf that I could not probably ſo clearly con<g ref="char:EOLhyphen"/>vince,
+and reſolve them in this particular by any printed authorities
+whatſoever as by this of Mr <hi>Howels,</hi> reputed one of that party by the
+Parliament, and moſt who knew him; and that other Malignant Rea<g ref="char:EOLhyphen"/>ders
+unacquainted with his perſon or inclination, might take notice of
+him, as one addicted to the Kings party (without any thought to injure
+or defame the Gentleman more then any other of the Kings adherents)
+I uſed theſe expreſſions of him;<note place="margin">The Popiſh Roy<g ref="char:EOLhyphen"/>all Favourite, p. 42.</note> 
+               <hi>Now that ſuch Letters really paſſed be<g ref="char:EOLhyphen"/>tween
+the King and Pope during his abode in Spain, appeares not only by
+divers ancient printed copies of them in ſundry Languages, but is alſo thus
+expreſly atteſted by Mr</hi> James Howell <hi>(an attendant upon his Majeſty in that
+expedition)</hi> NO FRIEND TO PARLIAMENTS, BUT A MALIGNANT
+NOVV IN CUSTODY, <hi>in his Vocall Forreſt, &amp;c.</hi> If Mr <hi>Howell</hi> be ſo great
+a <hi>Royaliſt,</hi> as this Book of his proclaims, and moſt repute him; I preſume
+he will eſteeme it no Calumny, nor diſhonour in this age to be ſtiled,
+<hi>No friend to Parliaments, but a Malignant:</hi> this being the chief ground of
+his preſent <hi>Dures</hi> in the <hi>Fleet,</hi> and that title wherein moſt <hi>Cavaliers</hi> now
+glory:<note place="margin">Pag. 11.</note> But if his impriſonment hath made him, <hi>as much a friend, and as
+reall an affectionate humble ſervant and Votary to the Parliament as poſsibly
+I can be, and that he will live and die with theſe affections about him,</hi> as he
+now profeſſeth in print, I ſhall rejoyce at his converſion, and readily
+retract my cenſure of him upon his reconciliation to this Parliament;
+and his <hi>Retractation</hi> of theſe Anti-parliamentary Paſſages in his <hi>Vocall
+<pb n="3" facs="tcp:159147:3"/>
+Foreſt,</hi> that have given great offence, (which he ſeems tacitly to con<g ref="char:EOLhyphen"/>feſſe,
+<hi>pag.</hi> 18.)</p>
+            <p>
+               <q>Not long after <hi>Druinas</hi> Monark convokes a univerſall Aſſembly,<note place="margin">Vocall Foreſt. p. 182. 183. 184. 188. 189. 190.</note>
+&amp;c. Who with much alacrity agreed to a good round ſupply, and in<g ref="char:EOLhyphen"/>deed
+it <hi>was the greateſt gift that ever ſubjects gave King;</hi> but before it
+was brought to any ſound perfection, this good work was unluckily
+diſturbed by a multitude of Queſtions concerning the <hi>Priviledge</hi> of
+the Subject, and <hi>Prerogative</hi> of the Soveraign, by which delayes the
+realty and reputation of that great <hi>donative</hi> was much leſſened, and the
+forraign actions <hi>the Royall Oke,</hi> was engaged in, abroad, received much
+prejudice: yet hee did formerly confirme unto them all their former
+Priviledges, and gave two moſt gracious Anſwers to their Petitions ten<g ref="char:EOLhyphen"/>ding
+to this end. And having complied with them thus to their
+hearts deſire, as alſo in two former Aſſemblies, wherein were delivered
+them as ſacrifices, ſome of the <hi>Crown Officers;</hi> and done them ſundry
+Acts of Princely Grace, yet ſome extravagant ſpirits given over to
+fancy and faction diſturbed the calme of theſe proceedings. They fall
+like thunder upon <hi>Villerio, &amp;c.</hi>
+               </q>
+            </p>
+            <p>
+               <q>The Great Aſſembly afore-ſaid rejoyned, and met againe in one
+body, and now he that was ſuppoſed to be the cauſe of the tempeſt
+being thrown over-board, there were greater hopes a calme ſhould en<g ref="char:EOLhyphen"/>ſue,
+but the ſtorme continued as furious as ever, and unlucky paſſions
+blaſted as much, if not more then they had done formerly in <hi>Villerios</hi>
+time.</q>
+            </p>
+            <p>
+               <q>They flew a freſh upon other great Officers, and queſtioned a duty,
+that for guarding of the Seas and common defence of the Realmes,
+had been indiſputably granted to ſo many preceding Kings for a <hi>bene
+eſſe;</hi> which they made difficulty to afford the Royall Oke Regnant,
+unleſſe he would firſt renounce all Right to it, and ſo receive it meer<g ref="char:EOLhyphen"/>ly
+from them: thus they <hi>chopped Lodgick with Soveraign Majeſty,</hi> who
+moved with theſe traverſes, reſolved though to his un-utterable griefe,
+to diſmiſſe this Great Councell: but upon the point when this was
+to be done in forme; the Lower Aſſembly in a ſtrange tumultuary man<g ref="char:EOLhyphen"/>ner
+adjourned themſelves before they had received his Royall plea<g ref="char:EOLhyphen"/>ſure:
+They <hi>denied him his Officers at Armes, violated the Prolocutour,
+being twice ſent for, delayed to let in his Meſſenger, and diſcontentments
+turning this to a ſtrange kinde of diſobedience, they break up in confuſion.</hi>
+Add hereunto, that notwithſtanding, there was an other peculiar Aſ<g ref="char:EOLhyphen"/>ſembly
+of Reverent <hi>Yewes</hi> of purpoſe for the regulating and ſweeping
+clean of the houſes of the Almighty, yet the <hi>Poplers</hi> muſt make it
+their office to tamper with the Conſtitution of holy things; and in<g ref="char:EOLhyphen"/>deed
+<pb n="4" facs="tcp:159147:4"/>
+this is one of the greateſt ſcandals and brands; that not only
+<hi>Petropolis,</hi> but other forraigners (who have with her forſaken <hi>Petropo<g ref="char:EOLhyphen"/>lis)</hi>
+caſt upon <hi>Druina, viz.</hi> that her Eccleſiaſticall Ordinances are the
+Commands and Injunctions of this Secular Power and Members of
+this Aſſembly; who not only confirm (which may be come them well
+enough, and is neceſſary for a generall obedience) but take upon them
+to be Iudges herein. So that one being asked, what they did in that
+Lower Great Aſſembly, hee was Anſwered preſently, <hi>That they were
+making of a New Creed;</hi> Another was over-heard to ſay, <hi>That he could
+not be quiet in his conſcience, untill the holy Text ſhould be confirmed by an
+act of theirs;</hi> whence may bee inferted, that ſome of them believe it
+belongs to them to make <hi>Sanctions</hi> as well as <hi>Statutes.</hi>
+               </q>
+            </p>
+            <p>
+               <q>This induced the Royall <hi>Oke,</hi> though he be reſponſible to none for
+the account of his actions, but to the High Majeſty of Heaven, to
+publiſh an open Proteſt unto the World for the ſatisfaction of his
+better ſort of Subjects, of the Cauſes of theſe diſorders: declaring,
+<hi>that while Villerio lived, he was intitled to all the diſtempers and events of
+former Aſſemblies: therefore much endeavour was uſed to demoliſh him as
+the only wall of ſeperation twixt their Soveraign and them: but he now being
+cut off, no alteration was found amongſt them at all, or calmneſſe in their
+proceedings.</hi>
+               </q>
+            </p>
+            <p>
+               <q>
+                  <hi>He was pleaſed to declare further,</hi> That he imputed not theſe Commo<g ref="char:EOLhyphen"/>tions
+to the whole Aſsembly, knowing that there were amongſt them,
+many Religious, grave and well-minded Patriots; but the ſincere and
+better part of them being over-borne by the clamours and pra<g ref="char:EOLhyphen"/>ctiſes
+of others, who careleſſe of their duties, and taking advantage of the
+times and his neceſsities, conſtrained him to break off that Meeting, which
+had it been anſwered with like duties on their parts, as love on his, might
+have proved happy to all <hi>Druina.</hi>
+               </q>
+            </p>
+            <p>
+               <q>Theſe fatall diſtempers as they did much hurt to the body politique
+at home <hi>for they were like humours ſtirred in the Naturall body without E<g ref="char:EOLhyphen"/>vacuation,</hi>
+ſo did they produce diſadvantageous effects abroad; and bet<g ref="char:EOLhyphen"/>ter
+had it been that the rayſers and fomenters of them had never ſprung
+up in <hi>Druina,</hi> &amp;c.</q>
+            </p>
+            <p>When this Gentleman, I ſay, ſhall have fully recanted theſe bitter
+paſſages againſt a former Parliament, with all his violent Invectives in
+his late<note n="a" place="margin">The Printer avowed, a<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d ſtil<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ma<gap reason="illegible: faint" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>fe<g ref="char:EOLhyphen"/>ſted this Diſ<g ref="char:EOLhyphen"/>courſe to be his.</note> Diſcourſe or Parley between <hi>Patricius</hi> and <hi>Peregrine</hi> (upon their
+landing in <hi>France,) touching the Civill Warres of England and Ireland,</hi> ſup<g ref="char:EOLhyphen"/>preſſed
+at the Preſſe; the moſt <hi>Malignant invective Satyr</hi> I have hither<g ref="char:EOLhyphen"/>to
+met with, againſt the Soveraign Iuriſdiction of all our Parliaments,
+and the proceedings of the preſent Parliament, againſt which (as I was
+<pb n="5" facs="tcp:159147:4"/>
+credibly informed) he had taken up offenſive Armes, being in the battle
+of <hi>Egde hill;</hi> I ſhall then cordially retract my Cenſure of him; till then
+I muſt appeal to his own conſcience and the world, whether I have ſlan<g ref="char:EOLhyphen"/>dered
+or miſreported him in the leaſt degree.<note place="margin">Pag. 5. 16. 17</note>
+            </p>
+            <p>Now whereas Mr <hi>Howell</hi> endeavours to excuſe his <hi>Maieſties</hi> compli<g ref="char:EOLhyphen"/>ances
+with the <hi>Pope</hi> during his reſidence in <hi>Spaine;</hi> averring, <hi>that the
+Diſpenſation for this Marriage, and capitulations ſtipulated in favour of
+the Romiſh Catholikes in England, were negotiated only by the King of Spains
+Miniſters, becauſe his Maieſty would have nothing to doe with Rome:</hi> I muſt
+informe both him and others, that though by the<note n="*" place="margin">Mercury Fran<g ref="char:EOLhyphen"/>cois Tom. 9. An. 1623. p. 517. An. 1624. p. 14.</note> Articles of the Spa<g ref="char:EOLhyphen"/>niſh
+Match, the Popes <hi>Diſpenſation</hi> for it was to be procured by the King
+of Spains Negotiation, yet King <hi>James</hi> himſelf writ Letters and ſent A<g ref="char:EOLhyphen"/>gents
+to <hi>Rome</hi> to expedite it, as is evident by this enſuing Letter of <hi>George
+Gage</hi> to King <hi>James</hi> from <hi>Rome An.</hi> 1623, the copy whereof (with o<g ref="char:EOLhyphen"/>thers
+of this kind) was found among Secretary <hi>Windebanks</hi> own papers.</p>
+            <floatingText type="letter">
+               <body>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>
+                     <q>
+                        <hi>IT may pleaſe your Majeſty to underſtand, that in a Congregation
+held the 22 of</hi> March, ſtilo novo, <hi>the Diſpenſation was finally re<g ref="char:EOLhyphen"/>ſolved,
+and order taken that</hi> Cardinal Bardino <hi>ſhould draw the Arti<g ref="char:EOLhyphen"/>cles
+in Forme, the</hi> Cardinall La Suſanno, <hi>make the</hi> Breve, <hi>and</hi> Mon-Signor
+Aquas <hi>the</hi> Popes <hi>Secretary, (who was preſent at the two laſt Seſ<g ref="char:EOLhyphen"/>ſions)
+draw ſome Inſtructions for</hi> Mon-Signor de Maſsimi <hi>the</hi> Nuntio,
+<hi>now reſident in the Court of</hi> Spaine. <hi>And in the following Congrega<g ref="char:EOLhyphen"/>tion
+held the 29. theſe things were ſeen and allowed, and the next day</hi>
+preſented to the Pope, and allowed by him: <hi>Concerning the particulars
+of the proceeding here, of difficulties overcome, and of what yet re<g ref="char:EOLhyphen"/>maineth
+to be done; I have given a large account to</hi> Master Secreta<g ref="char:EOLhyphen"/>ry
+Calvert, <hi>by which if your</hi> Majeſty <hi>receive not that ſatisfaction</hi> which
+we who have laboured therein have moſt earneſtly deſired; <hi>I ſhall moſt
+humbly beſeech your Majeſtie to believe: Firſt, that we have left no
+diligence undone by which we could hope to remove impediments:
+And ſecondly, that ſuch difficulties as are either ſpent, or yet to bee
+adveſted, have not been laid hold on by the</hi> Cardinals, <hi>either to fru<g ref="char:EOLhyphen"/>ſtrate
+or prolong this Treaty:</hi> But out of an Opinion that they could not
+otherwiſe ſecure their conſcience, proceed upon a just and valuable
+ground, and ſatisfie the Iudgement of ſuch diſcreet Perſons as may in times
+enſuing understand the paſſages of this great buſineſſe: <hi>And this point
+I am the bolder to repreſent to your</hi> Majeſties <hi>gracious conſiderati<g ref="char:EOLhyphen"/>on,</hi>
+becauſe joyntly with all their Proteſtations to this effect, their Actions
+have concurred alſo to give good teſtimony thereof. They hold moſt Ho<g ref="char:EOLhyphen"/>nourable
+language of your Majeſty,<note place="margin">Nota.</note> they profeſſe a great deſire to have occa<g ref="char:EOLhyphen"/>ſions
+<pb n="6" facs="tcp:159147:5"/>
+of doing you all humble ſervice; they have a firme opinion, that the
+former rigours uſed towards <hi>your Catholike Subjects</hi> have riſen from
+others,<note place="margin">Nota.</note> but the graces given them from your ſelfe: And they are confident
+that your Majeſtie, now that ſo potent interceſsions have been uſed with you,
+and all grounds of civill jealouſies removed, will not only command a reall
+performance of what you are pleaſed to promiſe in their favour, but ſutably
+to your own great Royall heart enlarge the benefit of your Princely goodneſſe.
+<hi>I have therefore</hi> (Sir) finding them thus affected, <hi>thought it ſutable to
+your ſervice,</hi> to let them underſtand, that ſince they expect theſe things from
+a Prince who yeeldeth to no man, either in eſteeming or returning a beni<g ref="char:EOLhyphen"/>fit,
+they may ſafely promiſe themſelves all good ſucceſſe, and give way to
+their own good diſpoſitions, of reſpect and affection toward your Majeſtie:
+<hi>and the rather I have done ſo, becauſe I perſwade my ſelfe, that your</hi>
+Majeſty <hi>is of the ſame opinion with him, who ſpeaking of the</hi> Romans
+<hi>to King</hi> Bocchus, <hi>ſaid,</hi> Licet Parentes abundè habemus, amicorum neque
+nobis neque cuiquam mortalium ſatis fuit.</q>
+                  </p>
+                  <p>
+                     <q>
+                        <hi>I ſend your Majeſtie Letters from the Cardinals Bandino and Lodojuſio,</hi>
+                        <note place="margin">Nota.</note>
+                        <hi>which they write in anſwer of your Majeſties to them, who above all others
+have ſought to obliege your Majeſty, as by my Letter to Maſter Secretary
+you will perceive.</hi> After the Eſter Holli-dayes I ſhall begin my journy
+toward <hi>Florence</hi> and <hi>Parma</hi> to perform your <hi>Majeſties Commandements</hi>
+there, whereof I will give your <hi>Majeſty</hi> account in due time: It will
+be the end of <hi>May</hi> before I ſhall get out of <hi>Italy,</hi> during which time I
+ſhall with devotion expect your <hi>Majeſties</hi> Orders, if any thing fur<g ref="char:EOLhyphen"/>ther
+you ſhall bee pleaſed to command my ſervice. So I humbly pray
+the Divine goodneſſe to give your Majeſtie many faire years of life,
+<hi>Thereby to enjoy the fruits of this noble Alliance, and to make happy your
+gracious Government.</hi>
+                     </q>
+                  </p>
+                  <closer>
+                     <signed>Your Majeſties moſt humble and loyall ſubject,
+GEORGE GAGE.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>This Letter, with our late entercouſe with <hi>Rome</hi> by ſending Mr <hi>Walter Montague</hi>
+and others, extraordinary <hi>Agents</hi> thither, maintaining Sir <hi>William Hamilton</hi> a con<g ref="char:EOLhyphen"/>ſtant
+Leger there, and receiving three <hi>Popes Nuncio<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi> ſucceſſively <hi>(Panzam, Con,</hi> and
+<hi>Roſetti)</hi> as conſtant Reſidentiaries here in <hi>London</hi> to reduce us back to <hi>Rome,</hi> to omit
+all other particulars, are a moſt pregnant teſtimony, that King <hi>James,</hi> and ſome of
+his great Miniſters of State (as I ſhall God willing manifeſt by undeniable teſti<g ref="char:EOLhyphen"/>monies)
+have had overmuch commerce with <hi>Rome,</hi> which is now no time to palliate.</p>
+            <p>I ſhall therfore conclude with the ſame Requeſt in effect to <hi>Mr Howell,</hi> which hee
+makes to mee in the cloſe of his new Pamphlet, That having unpaſſionatly peruſed
+what I have here written, in penning wherof my conſcience, quill, and hand have
+concurred, he would be pleaſed to be ſo charitable and juſt; as to conceive, I had pro<g ref="char:EOLhyphen"/>bable
+if not reall grounds for what I formerly publiſhed, without the leaſt intention
+to defame or miſreport him, or any other perſonated in that Treatiſe.</p>
+            <trailer>FINIS.</trailer>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="6" facs="tcp:159147:6"/>
+         </div>
+      </body>
+   </text>
+</TEI>
